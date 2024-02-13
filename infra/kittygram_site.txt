@@ -1,0 +1,5 @@
+ IP: 158.160.80.169;
+ name_taski: https://yptaski.ddns.net/;
+ name_kittygram: https://ypkittygram.ddns.net/;
+ login: 9xana;
+ password: 1;
